@@ -1,4 +1,2 @@
 # proyectos_Egg
-Proyectos para aprender de Egg
-
-Aqui estarán los proyectos de estudio en Egg
+Proyectos que usamos para el estudio en MySql
